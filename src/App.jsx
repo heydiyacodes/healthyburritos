@@ -1150,7 +1150,7 @@ export default function App() {
         {/* Sidebar */}
         <div className="sidebar">
           <div style={{ padding: "0 4px", marginBottom: 32 }}>
-            <div style={{ fontSize: 20, fontWeight: 700, color: "var(--olive)", fontFamily: "Playfair Display,serif", letterSpacing: "-0.01em" }}>NutriSense</div>
+            <div style={{ fontSize: 20, fontWeight: 700, color: "var(--olive)", fontFamily: "Playfair Display,serif", letterSpacing: "-0.01em" }}>healthyburritos</div>
             <div style={{ fontSize: 11, color: "var(--text3)", marginTop: 2 }}>Smart Nutrition Platform</div>
           </div>
 
